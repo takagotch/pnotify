@@ -181,7 +181,7 @@ PNotify.alert({
 });
 ```
 
-```
+```sh
 npm install --save pnotify
 npm install --save material-design-icons
 npm install --save animate.css
